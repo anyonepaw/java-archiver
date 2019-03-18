@@ -1,8 +1,6 @@
-# Working with java archives
+# Working with java archives - разбираем джава-архив
 
 _также есть смена кодировки файла_
-
-**Разбираем джава-архив**
 
 **Inspired from: http://javaportal.ru/java/articles/jararhive.html**
 
